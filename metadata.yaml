@@ -1,0 +1,25 @@
+_repo: Louis-XIet-Les--tats-Pontificaux-de-France_37678
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rey, R. (Raymond)
+    gutenberg_agent_id: '38989'
+    url: http://www.gutenberg.org/2009/agents/38989
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2011-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37678'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Louis XI, King of France, 1423-1483'
+- !lcc 'DC'
+title: Louis XI et Les États Pontificaux de France au XVe siècle
+url: http://www.gutenberg.org/ebooks/37678
